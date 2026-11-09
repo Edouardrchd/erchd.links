@@ -24,4 +24,5 @@ Pour ajouter un lien, dupliquer un bloc, renuméroter, et décaler le délai d'a
 ## À compléter
 
 - **Facebook** : `href` pointe encore sur `https://facebook.com/` (page d'accueil) alors que le survol affiche `facebook.com/edouardrichardphoto`. Mettre la vraie URL de la page, ou supprimer la ligne.
-- `og:image` réutilise l'image du portfolio.
+- Icônes : `favicon-32.png`, `favicon-48.png`, `apple-touch-icon.png` (180 px), recadrées depuis `er-portrait-v2.jpg` du portfolio.
+- Aperçu de partage : `og-image.jpg` (1200 × 630). Après remplacement, forcer la mise à jour dans le Sharing Debugger de Facebook.
